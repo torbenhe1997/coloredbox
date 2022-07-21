@@ -3,28 +3,28 @@
     "name": "Box",
     "description": "A colored box",
     "newInstancePrefix": "Box",
-    "icon": "https://3aa4-2003-f3-3f23-24f9-a409-d98a-6c18-68ef.ngrok.io/static/icon.png",
+    "icon": "https://torbenhe1997.github.io/coloredbox/icon.png",
     "vendor": "Sample",
     "eula": "",
     "license": "",
     "webcomponents": [{
             "kind": "main",
             "tag": "com-sample-box",
-            "url": "https://3aa4-2003-f3-3f23-24f9-a409-d98a-6c18-68ef.ngrok.io/static/box.js",
+            "url": "https://torbenhe1997.github.io/coloredbox/box.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-sample-box-styling",
-            "url": "https://3aa4-2003-f3-3f23-24f9-a409-d98a-6c18-68ef.ngrok.io/static/box_styling.js",
+            "url": "https://torbenhe1997.github.io/coloredbox/box_styling.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-sample-box-builder",
-            "url": "https://3aa4-2003-f3-3f23-24f9-a409-d98a-6c18-68ef.ngrok.io/static/box_builder.js",
+            "url": "https://torbenhe1997.github.io/coloredbox/box_builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
